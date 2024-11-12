@@ -97,7 +97,7 @@
 
 /* Cambiar el fondo de la página */
 body {
-    background-image: url(https://th.bing.com/th/id/OIP.Ur0rR7-Bx0gz0tFxXB04PQHaDt?rs=1&pid=ImgDetMain);
+    background-image: url(https://th.bing.com/th/id/OIP.Ur0rR7-Bx0gz0tFxXB04PQHaDt?rs=1&pid=ImgDetMain) no-repeat center;
 }
 
 /* Formulario en el centro, más pequeño y con bordes */
