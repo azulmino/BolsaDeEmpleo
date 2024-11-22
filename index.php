@@ -218,7 +218,17 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        ...
+        <div class="col-md-12">
+            <div class="form-floating mb-6">
+              <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
+              <label for="nombreApellido">Nombre y Apellido</label>
+            </div>
+            <hr>
+            <div class="form-floating mb-6">
+              <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
+              <label for="nombreApellido">Nombre y Apellido</label>
+            </div>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
@@ -237,7 +247,17 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        ...
+        <div class="col-md-12">
+            <div class="form-floating mb-6">
+              <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
+              <label for="nombreApellido">Nombre y Apellido</label>
+            </div>
+            <hr>
+            <div class="form-floating mb-6">
+              <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
+              <label for="nombreApellido">Nombre y Apellido</label>
+            </div>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
@@ -256,16 +276,17 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-      <div class="col-md-12">
-                    <div class="form-floating mb-6">
-                        <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
-                        <label for="nombreApellido">Nombre y Apellido</label>
-                    </div>
-                    <div class="form-floating mb-6">
-                        <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
-                        <label for="nombreApellido">Nombre y Apellido</label>
-                    </div>
-                    </div>
+        <div class="col-md-12">
+            <div class="form-floating mb-6">
+              <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
+              <label for="nombreApellido">Nombre y Apellido</label>
+            </div>
+            <hr>
+            <div class="form-floating mb-6">
+              <input type="text" class="form-control" id="nombreApellido" placeholder="Nombre y Apellido">
+              <label for="nombreApellido">Nombre y Apellido</label>
+            </div>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
